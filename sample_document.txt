@@ -1,0 +1,35 @@
+Java Programming — Basic Concepts
+
+Java is a high-level, object-oriented programming language. It is widely used to build desktop applications, web applications, mobile applications, and enterprise software.
+
+Inheritance
+
+Java supports inheritance. The extends keyword is used to create an inheritance relationship between classes. In inheritance, a child class can acquire properties and methods from a parent class.
+
+Encapsulation
+
+Encapsulation is the process of wrapping data and methods together inside a class. The private keyword can be used to restrict direct access to variables from outside the class.
+
+Polymorphism
+
+Polymorphism allows an object to take multiple forms. It is commonly implemented through method overloading and method overriding.
+
+Method Overriding
+
+Method overriding occurs when a subclass provides its own implementation of a method inherited from its parent class. The @Override annotation is commonly used to indicate that a method is being overridden.
+
+Abstraction
+
+Abstraction focuses on hiding implementation details and showing only the essential functionality to the user. In Java, abstraction can be implemented using abstract classes and interfaces.
+
+Important Java Keywords
+
+extends — used for class inheritance.
+
+private — restricts direct access to a class member.
+
+implements — used when a class implements an interface.
+
+this — refers to the current object.
+
+super — refers to the parent class.
