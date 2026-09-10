@@ -120,6 +120,8 @@ if st.session_state["document_processed"]:
 
     # Display previous messages
 
+
+
     for message in st.session_state["messages"]:
 
         with st.chat_message("user"):
